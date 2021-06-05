@@ -13,3 +13,10 @@ Prepared by **Amirul Hakim bin Abdul Rashid (2019685886)**
 - Simple application of socket programming in Python
 - Demonstration!
 
+## Installation of Telnet in Ubuntu
+
+Simply follow this tutorial
+https://www.journaldev.com/28614/telnet-command-linux-unix
+
+
+
