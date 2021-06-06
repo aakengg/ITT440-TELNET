@@ -30,6 +30,6 @@ https://drive.google.com/file/d/193PSGIIGtEYR5VOhuIqxssoimOQ6FcGf/view?usp=shari
 
 ## References
 
-- https://www.guru99.com/telnet-vs-ssh.html4:10 AM 6/6/2021
+- https://www.guru99.com/telnet-vs-ssh.html4:10 
 - https://www.howtoforge.com/how-to-install-and-use-telnet-on-ubuntu/
 - https://www.binarytides.com/code-telnet-client-sockets-python/
