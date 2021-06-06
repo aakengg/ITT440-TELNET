@@ -21,7 +21,15 @@ https://www.journaldev.com/28614/telnet-command-linux-unix
 
 ## Link for my video presentation
 
+Youtube:
+https://youtu.be/b5Dz3NAQQXc
+
+Google Drive:
 https://drive.google.com/file/d/193PSGIIGtEYR5VOhuIqxssoimOQ6FcGf/view?usp=sharing
 
 
+## References
 
+- https://www.guru99.com/telnet-vs-ssh.html4:10 AM 6/6/2021
+- https://www.howtoforge.com/how-to-install-and-use-telnet-on-ubuntu/
+- https://www.binarytides.com/code-telnet-client-sockets-python/
