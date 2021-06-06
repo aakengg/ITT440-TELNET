@@ -19,4 +19,9 @@ Simply follow this tutorial
 https://www.journaldev.com/28614/telnet-command-linux-unix
 
 
+## Link for my video presentation
+
+https://drive.google.com/file/d/193PSGIIGtEYR5VOhuIqxssoimOQ6FcGf/view?usp=sharing
+
+
 
