@@ -17,7 +17,7 @@ Prepared by **Amirul Hakim bin Abdul Rashid (2019685886)**
 Youtube:
 https://youtu.be/b5Dz3NAQQXc
 
-Google Drive(optional):
+Google Drive (optional):
 https://drive.google.com/file/d/193PSGIIGtEYR5VOhuIqxssoimOQ6FcGf/view?usp=sharing
 
 ## Installation of Telnet in Ubuntu/Linux
@@ -32,18 +32,18 @@ It follows a user command Transmission Control Protocol/Internet Protocol (TCP/I
 
 ## How it works?
 
--Telnet uses port 23, which was designed specifically for local area networks
--It helps to connect to a remote Linux computer
--It run programs remotely and conduct administration
--Telnet transfers the data in plain text while in SSH data is sent in encrypted format 
+- Telnet uses port 23, which was designed specifically for local area networks.
+- It helps to connect to a remote Linux computer.
+- It run programs remotely and conduct administration.
+- Telnet transfers the data in plain text while in SSH data is sent in encrypted format 
  via a secure channel.
--Comparing telnet vs ssh, ssh is more secure since it is encrypted communication
+- Comparing telnet vs ssh, ssh is more secure since it is encrypted communication.
 
 ## Test the connectivity while using Telnet
 
 - Referring to the code **telnet.py**, the purpose is to test the connectivity.
 - By using ping command, we can check if the Telnet is connected or not with google. 
-- When the connection is established, the server replies will appear on the terminal
+- When the connection is established, the server replies will appear on the terminal.
 
 ## Simple socket programming in Python (ChatRoom Server)
 
@@ -52,7 +52,7 @@ It follows a user command Transmission Control Protocol/Internet Protocol (TCP/I
 - Every messages is broadcasted to every connected chat users.
 
 **Server**
-- Server will accept multiple connection of users
+- Server will accept multiple connection of users.
 - Read incoming messages, and broadcasted it to every connected clients.
 
 **Client**
